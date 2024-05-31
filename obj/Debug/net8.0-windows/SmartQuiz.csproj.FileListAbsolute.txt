@@ -1,0 +1,17 @@
+C:\Users\kawda\source\repos\SmartQuiz\bin\Debug\net8.0-windows\SmartQuiz.exe
+C:\Users\kawda\source\repos\SmartQuiz\bin\Debug\net8.0-windows\SmartQuiz.deps.json
+C:\Users\kawda\source\repos\SmartQuiz\bin\Debug\net8.0-windows\SmartQuiz.runtimeconfig.json
+C:\Users\kawda\source\repos\SmartQuiz\bin\Debug\net8.0-windows\SmartQuiz.dll
+C:\Users\kawda\source\repos\SmartQuiz\bin\Debug\net8.0-windows\SmartQuiz.pdb
+C:\Users\kawda\source\repos\SmartQuiz\obj\Debug\net8.0-windows\SmartQuiz.Authorization.resources
+C:\Users\kawda\source\repos\SmartQuiz\obj\Debug\net8.0-windows\SmartQuiz.csproj.GenerateResource.cache
+C:\Users\kawda\source\repos\SmartQuiz\obj\Debug\net8.0-windows\SmartQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kawda\source\repos\SmartQuiz\obj\Debug\net8.0-windows\SmartQuiz.AssemblyInfoInputs.cache
+C:\Users\kawda\source\repos\SmartQuiz\obj\Debug\net8.0-windows\SmartQuiz.AssemblyInfo.cs
+C:\Users\kawda\source\repos\SmartQuiz\obj\Debug\net8.0-windows\SmartQuiz.csproj.CoreCompileInputs.cache
+C:\Users\kawda\source\repos\SmartQuiz\obj\Debug\net8.0-windows\SmartQuiz.dll
+C:\Users\kawda\source\repos\SmartQuiz\obj\Debug\net8.0-windows\refint\SmartQuiz.dll
+C:\Users\kawda\source\repos\SmartQuiz\obj\Debug\net8.0-windows\SmartQuiz.pdb
+C:\Users\kawda\source\repos\SmartQuiz\obj\Debug\net8.0-windows\SmartQuiz.genruntimeconfig.cache
+C:\Users\kawda\source\repos\SmartQuiz\obj\Debug\net8.0-windows\ref\SmartQuiz.dll
+C:\Users\kawda\source\repos\SmartQuiz\obj\Debug\net8.0-windows\SmartQuiz.Registration.resources

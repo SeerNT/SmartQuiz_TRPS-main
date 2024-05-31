@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wMsmFDYZTD+XOD6vx04JT3vVPJVBC7Wa38eCW3D1u7KBfmK83JqUhNx238f/bh1zjnTstQbq/p8EieKoU+hW/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kawda\\Desktop\\SmartQuiz_TRPS-main\\SmartQuiz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kawda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kawda\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kawda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kawda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
